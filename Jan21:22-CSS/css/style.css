@@ -1,0 +1,29 @@
+body{
+	color:black;
+  
+}
+h1{
+	color:gray;
+  text-align: center;
+  
+}
+h2{
+  color:blue;
+  text-shadow: 2px 2px #ff0000;
+
+}
+p{
+	color:black;
+  
+  
+}
+li{
+  list-style-image: url('../imgs/tinyM.png');
+  
+}
+img{
+ 
+}
+footer{
+  
+}
